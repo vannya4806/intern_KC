@@ -8,4 +8,4 @@ Dataset:  https://arxiv.org/pdf/1901.10219
 
 Model yang digunakan:
 1. BioBert
-2. BiLSTM-CNN 
+2. BiLSTM-CNN
