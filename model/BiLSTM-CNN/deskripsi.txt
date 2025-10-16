@@ -1,1 +1,0 @@
-LSTM_CNN (dikerjakan di kaggle, untuk versi code lebih lengkap bisa di cek di: https://www.kaggle.com/code/vannyaadegunawan/notebookeeae926d3d )
