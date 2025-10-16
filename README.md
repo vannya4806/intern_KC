@@ -1,4 +1,4 @@
-# Peningkatan Kinerja NER Biomedis dengan Class-Weighted BioBERT
+# Class Weighted BioBERT pada NER Biomedis untuk Mengatasi Ketidakseimbangan Data
 
 Repositori ini berisi kode dan sumber daya untuk proyek penelitian tentang *Biomedical Named Entity Recognition* (BioNER). Proyek ini mengeksplorasi dan membandingkan arsitektur *deep learning* yang berbeda—sebuah model klasik CNN-BiLSTM, model BioBERT yang telah di-*fine-tune*, dan model usulan Class-Weighted BioBERT—untuk mengidentifikasi dan mengklasifikasikan entitas biomedis dari teks ilmiah.
 
@@ -37,5 +37,4 @@ Model dilatih dan dievaluasi menggunakan dataset **Revised JNLPBA**, yang merupa
 
 * **Sumber**: [Taiwan's Academia Sinica, Institute of Information Science](https://iasl-btm.iis.sinica.edu.tw/BNER/)
 
----
 
