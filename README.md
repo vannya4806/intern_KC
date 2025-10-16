@@ -39,10 +39,3 @@ Model dilatih dan dievaluasi menggunakan dataset **Revised JNLPBA**, yang merupa
 
 ---
 
-
-## 📊 Hasil
-
-Perbandingan kinerja akhir dari semua model dapat ditemukan di `results/final_comparison.csv`. Laporan klasifikasi rinci untuk setiap model, termasuk Precision, Recall, dan F1-Score per kelas, disimpan di direktori output masing-masing setelah menjalankan skrip evaluasi.
-
----
-
