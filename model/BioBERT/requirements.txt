@@ -1,8 +1,0 @@
-torch
-transformers
-seqeval
-numpy
-scikit-learn
-matplotlib
-seaborn
-tqdm
