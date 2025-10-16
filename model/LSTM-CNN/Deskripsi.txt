@@ -1,0 +1,22 @@
+🧠 Deskripsi Model
+
+1. Nama Model: BiLSTM-CNN
+2. Tujuan: Melakukan NER pada dataset yang telah dijelaskan 
+3. Training:
+Training Berhasil (Konfigurasi (Batch Size, Optimizer, LR, Epoch)):
+E1: https://www.kaggle.com/code/vannyaadegunawan/lab-internship?scriptVersionId=267522144
+E2: https://www.kaggle.com/code/vannyaadegunawan/lab-internship?scriptVersionId=267663219
+E3 --hasil akhir: https://www.kaggle.com/code/vannyaadegunawan/lab-internship?scriptVersionId=268127414
+4. Evaluasi Hasil Terbaik
+              precision    recall  f1-score   support
+
+         DNA       0.76      0.79      0.78      1622
+         RNA       0.88      0.66      0.76       322
+   cell_line       0.85      0.79      0.82       808
+   cell_type       0.88      0.87      0.87      4140
+     protein       0.85      0.83      0.84     10504
+
+   micro avg       0.85      0.83      0.84     17396
+   macro avg       0.84      0.79      0.81     17396
+weighted avg       0.85      0.83      0.84     17396
+
